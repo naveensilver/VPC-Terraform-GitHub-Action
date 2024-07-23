@@ -32,12 +32,6 @@ Before you begin, ensure you have the following prerequisites:
 * Terraform installed on your local machine.
 * Access to a cloud provider account (e.g., AWS, Azure, Google Cloud) and necessary API credentials.
 
-----------------
-
-Certainly! Below is a structured overview that you can use for your LinkedIn post to document your project involving the creation of a VPC with Terraform and automating deployment with GitHub Actions.
-
----
-
 ### 🚀 Project Overview: Deploying Infrastructure as Code with Terraform and GitHub Actions
 
 I’m excited to share my recent project where I implemented Infrastructure as Code (IaC) using Terraform, enhanced with CI/CD capabilities via GitHub Actions. This project focuses on setting up a secure, scalable, and fully functional cloud architecture on AWS. Here’s a comprehensive overview:
